@@ -1,0 +1,39 @@
+
+body {
+   background: red;
+}
+span {
+   color: blue;
+    background: black;
+}
+p {
+
+background: black;
+color:yellowgreen;
+}
+li{
+   color: green;
+   background: black;
+}
+div{
+color: fuchsia;
+background: black;
+
+}
+h4{
+color:black;
+background: green;
+}
+#title{
+color: black;
+background: green;
+
+}
+a{
+color: blue;
+background: black;
+}
+h2{
+   color: yellow;
+   background: black;
+}
